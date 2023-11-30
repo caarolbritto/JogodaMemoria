@@ -1,0 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box; /*contar de borda a borda quando colocar algum tamanho ou alguma largura*/
+    font-family: monospace;
+}
